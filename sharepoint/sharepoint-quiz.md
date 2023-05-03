@@ -398,7 +398,7 @@
 
 - [ ] the object permissions
 - [ ] the user permissions
-- [ ] the list experience settings
+- [x] the list experience settings
 - [ ] the site template settings
 
 #### Q50. How can you set up users to add a status option of an item in a document library?
